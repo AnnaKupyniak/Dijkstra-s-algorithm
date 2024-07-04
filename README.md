@@ -1,6 +1,6 @@
-# Graph Algorithms in C++
+# Dijkstra's algorithm in C++
 
-This repository contains implementations of graph algorithms using C++. The main focus is on Dijkstra's algorithm for finding the shortest path in a graph.
+This repository contains implementations of Dijkstra's algorithm for finding the shortest path in a graph.
 
 ## Introduction
 
